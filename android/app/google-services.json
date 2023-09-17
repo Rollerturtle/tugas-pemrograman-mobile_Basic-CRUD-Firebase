@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "838514532607",
+    "project_id": "fir-crud-c3dac",
+    "storage_bucket": "fir-crud-c3dac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838514532607:android:d9bf2082b6a07fe04becca",
+        "android_client_info": {
+          "package_name": "com.example.tugaspemrogramanmobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiutsFzFhA-c5JgtknIhas-AiqU-i9DW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
